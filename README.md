@@ -1,17 +1,16 @@
-# FEHMO
-Projeto da disciplina de Sistemas Microprocessados - 2018.2
+# FEHMO - Fire Extinguisher Hose Modulator
+![](https://i.imgur.com/jEDe3st.jpg)
 
-Professor : Ricardo Jardel Nunes da Silveira 
+## Description
+With the recent tragedy at the National Museum in the city of Rio de Janeiro, the concern with fires in historic centers came  
+to light, with this in mind, our team is developing a fire prevention system with the concepts learned in the Microprocessor Systems course, 
+aiming for an efficient project so that it can be easily implemented in all the places that are deemed necessary. Thinking about the fires as well as in the economy and water preservation, *FEHMO* will do a quick analysis of the situation through temperature sensors and release 
+the adequate amount of water to control and neutralize the fire, being ideal for the use with a fire hose, controlling her action.
 
-# FEHMO - Fire Extinguisher Hose MOdulator
+## Developers 
+[:email:](mailto:clailtonx2@gmail.com) Clailton Almeida Lopes `@Thelirium`    
+[:email:](mailto:gustavofilipe25@gmail.com) Gustavo Filipe do Nascimento `@Gusnas`    
+[:email:](mailto:jetpfilho@gmail.com) José Erivan Teixeira Paiva Filho `@ervnn`   
+[:email:](mailto:eng.lucas@alu.ufc.br) Lucas Martins de Oliveira `@lucasufc`  
 
-Com a recente tragédia ocorrida no Museu Nacional, na cidade do Rio de Janeiro, a preocupação com os incêndios em centros históricos veio a tona, pensando nisso, o grupo desenvolverá um sistema de prevenção de incêndio com os conceitos aprendidos na disciplina de Microprocessados, visando um projeto barato, simples e eficiente para que possa ser implementado facilmente em todos os locais que se julguem necessário. Pensando tanto nos incêndios, quanto na economia e preservação da água, o FEHMO irá fazer uma rápida análise da situação através de sensores de temperatura, e liberará a quantidade adequada de água para controlar e neutralizar o incêndio, sendo ideal para a utilização junto a uma mangueira de incêndio, controlando a ação da mesma.
-
-# Equipe
-Clailton Almeida Lopes - 4000091 
-
-Gustavo Filipe do Nascimento - 402889
-
-José Erivan Teixeira Paiva Filho - 398698
-
-Lucas Martins de Oliveira - 398900
+### *Support our project sharing it!* <a href="https://twitter.com/intent/tweet?text=Take%20a%20look%20at%20FEHMO,%20an%20open-source%20project!%20https://github.com/Gusnas/FEHMO"><img width="40px" height="auto" src="https://i.imgur.com/Fa1S3if.png"/></a>
