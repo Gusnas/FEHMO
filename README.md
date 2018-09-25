@@ -1,5 +1,6 @@
 # FEHMO
 Projeto da disciplina de Sistemas Microprocessados - 2018.2
+Professor : Ricardo Jardel Nunes da Silveira 
 
 # FEHMO - Fire Extinguisher Hose MOdulator
 Projeto para a disciplina de microprocessados 2018.2
