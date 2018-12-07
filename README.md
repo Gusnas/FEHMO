@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/uh2MXdr.jpg)
 
 ## Description
-Com o intuito de ajudar as pessoas com vício em cigarro, o cigarro eletrônico, conhecido também como Vape, é uma saída para largar este hábito que só faz mal ao nosso corpo. De acordo com o Departamento de Saúde e Assistência Social do Reino Unido, o cigarro eletrônico pode ser até 95% menos prejudicial do que o cigarro comum de tabaco. Com o VIVA(Virtual Integrated Vape), temos o intuito de construir um vape "smart", e de baixo custo. A parte smart do projeto consiste em transmitir todos os dados do VIVA para uma página com internet, dados como: quantidade de nicotina utilizada, temperatura do vapor e quantidade de vezes que o sistema foi utilizado, de maneira que o usuário possa acompanhar o sua evolução na luta contra o cigarro.
+Com o intuito de ajudar as pessoas com vício em cigarro, o cigarro eletrônico, conhecido também como Vape, é uma saída para largar este hábito que só faz mal ao nosso corpo. De acordo com o Departamento de Saúde e Assistência Social do Reino Unido, o cigarro eletrônico pode ser até 95% menos prejudicial do que o cigarro comum de tabaco(https://www.gov.uk/government/news/e-cigarettes-around-95-less-harmful-than-tobacco-estimates-landmark-review). Com o VIVA(Virtual Integrated Vape), temos o intuito de construir um vape "smart", e de baixo custo. A parte smart do projeto consiste em transmitir todos os dados do VIVA para uma página com internet, dados como: quantidade de nicotina utilizada, temperatura do vapor e quantidade de vezes que o sistema foi utilizado, de maneira que o usuário possa acompanhar o sua evolução na luta contra o cigarro.
 
 ## Developers 
 [:email:](mailto:clailtonx2@gmail.com) Clailton Almeida Lopes `@Thelirium`    
