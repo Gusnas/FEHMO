@@ -1,9 +1,8 @@
-# VIVA - Virtua Integrated Vape
-![](https://i.imgur.com/jEDe3st.jpg)
+# VIVA - Virtual Integrated Vape
+![](https://imgur.com/a/K5dTVOE)
 
 ## Description
-With the recent tragedy at the National Museum in the city of Rio de Janeiro, the concern with fires in historic centers came to light, with this in mind, our team is developing a fire prevention system with the concepts learned in the Microprocessor Systems course, aiming for an efficient project so that it can be easily implemented in all the places that are deemed necessary. Thinking about the fires as well as in the economy and water preservation, *FEHMO* will do a quick analysis of the situation through temperature sensors and release 
-the adequate amount of water to control and neutralize the fire, being ideal for the use with a fire hose, controlling her action.
+Com o intuito de ajudar as pessoas com vício em cigarro, o cigarro eletrônico, conhecido também como Vape, é uma saída para largar este hábito que só faz mal ao nosso corpo. De acordo com o Departamento de Saúde e Assistência Social do Reino Unido, o cigarro eletrônico pode ser até 95% menos prejudicial do que o cigarro comum de tabaco. Com o VIVA(Virtual Integrated Vape), temos o intuito de construir um vape "smart", e de baixo custo. A parte smart do projeto consiste em transmitir todos os dados do VIVA para uma página com internet, dados como: quantidade de nicotina utilizada, temperatura do vapor e quantidade de vezes que o sistema foi utilizado, de maneira que o usuário possa acompanhar o sua evolução na luta contra o cigarro.
 
 ## Developers 
 [:email:](mailto:clailtonx2@gmail.com) Clailton Almeida Lopes `@Thelirium`    
